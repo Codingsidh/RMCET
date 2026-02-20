@@ -1,1 +1,2 @@
-# RMCET
+# Smart Contact Manager Project
+
